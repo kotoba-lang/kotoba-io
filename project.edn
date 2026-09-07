@@ -1,0 +1,4 @@
+:name kotoba-io
+ :version "0.1.0"
+ :description "Pure Kotoba I/O operations"
+ :license {:name "MIT"}
