@@ -1,0 +1,8 @@
+{
+  :name "kotoba-io",
+  :description "Pure Kotoba I/O library replacing java.io/java.nio.file",
+  :version "0.1.0",
+  :src "src",
+  :test "test",
+  :require ["kotoba.io"]
+}
